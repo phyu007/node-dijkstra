@@ -1,0 +1,9 @@
+{
+	"name": "path-finder",
+	"version": "1.0.0",
+	"description": "",
+	"main": "bunyanLambda.js",
+	"dependencies": {
+		"node-dijkstra": "2.5.0"
+	}
+}
